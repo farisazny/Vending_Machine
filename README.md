@@ -10,7 +10,7 @@ This script simulates a vending machine payment system using Python and Pandas.
 2. **cust_Order(user, drink, notes_in_wallet)**:
    - Checks if the requested drink is available in the vending machine.
    - Checks if the user has enough funds to purchase the drink.
-   - Calculates the total balance after the purchase and returns any change.
+   - Calculates the total balance after the purchase and the denominations of change.
 
 ## Sample simulation
  <img src="/Screenshot.jpg" alt="Screenshot - Vending Machine Records">
