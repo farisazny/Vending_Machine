@@ -12,4 +12,5 @@ This script simulates a vending machine payment system using Python and Pandas.
    - Checks if the user has enough funds to purchase the drink.
    - Calculates the total balance after the purchase and returns any change.
 
-## Simulation
+## Sample simulation
+ <img src="/Screenshot.jpeg" alt="Screenshot - Vending Machine Records" style="width: 220px; height: 490px;">
